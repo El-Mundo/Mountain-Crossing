@@ -1,0 +1,7 @@
+SFX:
+Rock Breaking - https://www.sounds-resource.com/snes/kss/sound/19371/
+
+Graphics:
+Rock - https://www.spriters-resource.com/xbox/eggmaniaeggstrememadness/sheet/93487/
+Bridge - https://www.spriters-resource.com/xbox_360/takearms/sheet/64770/
+Aura - https://www.spriters-resource.com/pc_computer/rpgmakermv/sheet/100417/
